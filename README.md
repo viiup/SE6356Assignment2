@@ -1,5 +1,5 @@
 ### SE6356 Assignment #2
-##### Contributions by [Abdullah Moyeen](https://github.com/AbdullahMoyeen) & [Mahabubul Alam](https://github.com/alamtx)
+##### Contributions by [Mahabubul Alam](https://github.com/alamtx) & [Abdullah Moyeen](https://github.com/AbdullahMoyeen)
 ---
 
 ##### This repo contains - 
